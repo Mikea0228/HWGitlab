@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("HW for gitlab version 2"),
+    titlePanel("HW for gitlab version 3"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
